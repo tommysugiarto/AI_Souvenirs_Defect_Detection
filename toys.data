@@ -1,0 +1,7 @@
+classes= 6
+
+train  = /home/a70200/darknet-python/data/AI_toys/metadata/tr_list_ori.txt
+valid  = /home/a70200/darknet-python/data/AI_toys/metadata/val_list_ori.txt
+names  = /home/a70200/darknet-python/cfg/toys.names
+backup = /home/a70200/darknet-python/backup
+    
